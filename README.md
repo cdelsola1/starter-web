@@ -16,4 +16,4 @@ Please fork this file and then issue pull requests for review.
 
 ### Copyright
 
-2014 Copyright Cristian Delsolar, All Rights Reserved
+2014 Copyright Cristian Delsolar, All Rights Reserved Again to do stash again.
